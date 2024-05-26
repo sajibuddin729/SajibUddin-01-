@@ -9,3 +9,4 @@ public class DataProcessing {
         cldPipeline.processData("A URL");
     }
 }
+// Template Method pattern
