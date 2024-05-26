@@ -19,3 +19,7 @@ public class TextEditor {
         }
     }
 }
+
+// using decortor desgin pattern
+
+
